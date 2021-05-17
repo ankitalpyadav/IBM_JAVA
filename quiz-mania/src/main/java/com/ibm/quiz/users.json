@@ -1,0 +1,18 @@
+[
+	{
+		"uid":0,
+		"username":"polo",
+		"password":"java",
+		"role":"user",
+		"result":null,
+		"quiz":null
+	},
+	{
+		"uid":0,
+		"username":"polo",
+		"password":"java",
+		"role":"user",
+		"result":null,
+		"quiz":null
+	}
+]
